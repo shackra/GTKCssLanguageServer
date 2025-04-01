@@ -4,6 +4,9 @@ A language server for the GTK CSS flavor. Written for [Workbench](https://github
 at some point in GNOME Builder.
 
 ## Usage
+### Nix
+Add this repository as input in your flake.nix and install the default package.
+
 ### GNOME Builder
 ```
 git clone https://github.com/JCWasmx86/GNOME-Builder-Plugins
